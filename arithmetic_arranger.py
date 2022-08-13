@@ -1,4 +1,3 @@
-# Решение изначальной задачи
 def arithmetic_arranger(problems, display_answer=False):
     line1 = ''
     line2 = ''
